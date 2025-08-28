@@ -22,31 +22,6 @@
 🧠 Adaptability — Eager to learn and adapt to new tools, frameworks, and workflows.  
 🤝 Collaboration — Valuing teamwork, clear communication, and constructive feedback.  
 
-### ⚙️ My Workflow
-
-```mermaid
-graph TD;
-    D[📥 Receive UI/UX Design - Figma, etc] --> P[🧠 Analyze Layout & Components];
-    P --> S[⚒️ Setup Project & Environment];
-    S --> C[💻 Implement Using HTML/CSS/JS];
-    C --> R[🔍 Responsive & Cross-Browser Testing];
-    R --> O[🧪 Optimize Performance & Code];
-    O --> F[✅ Final Review & Deploy];
-```
-
-### 📚 Learning Journey
-
-🗓️ 2024 – Started learning the fundamentals of HTML, CSS, and JavaScript  
-🛠️ 2024 – Built several static projects and learned Git/GitHub basics  
-⚛️ 2025 – Began exploring React and Tailwind CSS  
-🔁 2025 – Gained experience working with UI designs from Figma  
-🚀 2025 – Focused on building a portfolio and contributing to real-world projects  
-📈 Present – Continuously improving and staying up to date with modern front-end development trends  
-
-<h3 align="center">
-💬 “Progress is progress, no matter how small — the key is consistency.”
-</h3>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -82,6 +57,35 @@ graph TD;
   <img src="https://github-readme-stats.vercel.app/api?username=aryafmdev&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryafmdev&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
+
+---
+
+### ⚙️ My Workflow
+
+```mermaid
+graph TD;
+    D[📥 Receive UI/UX Design - Figma, etc] --> P[🧠 Analyze Layout & Components];
+    P --> S[⚒️ Setup Project & Environment];
+    S --> C[💻 Implement Using HTML/CSS/JS];
+    C --> R[🔍 Responsive & Cross-Browser Testing];
+    R --> O[🧪 Optimize Performance & Code];
+    O --> F[✅ Final Review & Deploy];
+```
+
+---
+
+### 📚 Learning Journey
+
+🗓️ 2024 – Started learning the fundamentals of HTML, CSS, and JavaScript  
+🛠️ 2024 – Built several static projects and learned Git/GitHub basics  
+⚛️ 2025 – Began exploring React and Tailwind CSS  
+🔁 2025 – Gained experience working with UI designs from Figma  
+🚀 2025 – Focused on building a portfolio and contributing to real-world projects  
+📈 Present – Continuously improving and staying up to date with modern front-end development trends  
+
+<h3 align="center">
+💬 “Progress is progress, no matter how small — the key is consistency.”
+</h3>
 
 ---
 
