@@ -15,6 +15,33 @@
 🛠️ Experienced with modern front-end tools and frameworks to ensure seamless user experiences.  
 🚀 Continuously learning and improving to stay aligned with the latest industry standards and best practices.
 
+🧭 Core Values
+
+💡 Precision — Ensuring that implementation aligns accurately with the intended design and functionality.
+🧼 Clean Code — Writing structured, maintainable code that supports scalable, long-term projects.
+🧠 Adaptability — Eager to learn and adapt to new tools, frameworks, and workflows.
+🤝 Collaboration — Valuing teamwork, clear communication, and constructive feedback.
+
+⚙️ My Workflow
+graph TD;
+    D[📥 Receive UI/UX Design (Figma, etc)] --> P[🧠 Analyze Layout & Components];
+    P --> S[⚒️ Setup Project & Environment];
+    S --> C[💻 Implement Using HTML/CSS/JS];
+    C --> R[🔍 Responsive & Cross-Browser Testing];
+    R --> O[🧪 Optimize Performance & Code];
+    O --> F[✅ Final Review & Deploy];
+
+📚 Learning Journey
+
+🗓️ 2024 – Started learning the fundamentals of HTML, CSS, and JavaScript
+🛠️ 2024 – Built several static projects and learned Git/GitHub basics
+⚛️ 2025 – Began exploring React and Tailwind CSS
+🔁 2025 – Gained experience working with UI designs from Figma
+🚀 2025 – Focused on building a portfolio and contributing to real-world projects
+📈 Present – Continuously improving and staying up to date with modern front-end development trends
+
+💬 “Progress is progress, no matter how small — the key is consistency.”
+
 ---
 
 ### 🛠️ Tech Stack & Tools
