@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Arya FM</a> 👋</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+---
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/aryafmdev" target="_blank">Arya FM</a> 👋</h1>
 <h2 align="center">Crafting Interactive, Responsive, and Aesthetic Web Experiences</h2>
 
 ---
@@ -105,11 +111,6 @@ graph TD;
 </h3>
 
 ---
-
-### 🐍 Play Snake or Pacman
-
-Wanna take a break?  
-▶️ [Play Snake Game](https://aryafmdev.github.io/snake-game)  
 
 ###
 
