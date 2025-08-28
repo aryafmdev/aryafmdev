@@ -100,8 +100,16 @@ graph TD;
 
 ---
 
-<h3 align="center">
-💡 *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
+<h3 align="">
+💡 “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 </h3>
+
+---
+
+### 🐍 Play Snake or Pacman
+
+Wanna take a break?  
+▶️ [Play Snake Game](https://yourusername.github.io/snake-game)  
+▶️ [Play Pacman](https://yourusername.github.io/pacman-clone)
 
 ---
