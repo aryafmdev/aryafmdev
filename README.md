@@ -109,13 +109,3 @@ graph TD;
 <h3 align="">
 💡 “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 </h3>
-
----
-
-###
-
-<img src="https://raw.githubusercontent.com/aryafmdev/aryafmdev/output/snake.svg" alt="Snake animation" />
-
-###
-
----
