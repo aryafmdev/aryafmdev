@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Front-End+Web+Developer;Transforming+UI%2FUX+Designs+into+Responsive+Websites;Clean+Code+%7C+Modern+Tech+%7C+Consistent+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Front-End+Web+Developer;Transforming+UI%2FUX+Designs+into+Responsive+Websites;Clean+Code+%7C+Modern+Tech+%7C+Consistent+Delivery" alt="Typing SVG" />
 
 ---
 
@@ -96,3 +96,4 @@ graph TD;
 ### 💡 *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
 </p>
 
+---
