@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/aryafmdev" target="_blank">Arya FM</a> 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://github.com/aryafmdev" target="_blank">Arya FM</a> 👋</h1>
 <h2 align="center">Crafting Interactive, Responsive, and Aesthetic Web Experiences</h2>
 
 ---
