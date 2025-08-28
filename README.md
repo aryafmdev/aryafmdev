@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Arya FM</a> 👋</h1>
-<h3 align="center">Crafting Interactive, Responsive, and Aesthetic Web Experiences</h3>
+<h2 align="center">Crafting Interactive, Responsive, and Aesthetic Web Experiences</h2>
 
 ---
 
@@ -24,13 +24,15 @@
 
 ### ⚙️ My Workflow
 
+```mermaid
 graph TD;
-    D[📥 Receive UI/UX Design (Figma, etc)] --> P[🧠 Analyze Layout & Components];
+    D[📥 Receive UI/UX Design - Figma, etc] --> P[🧠 Analyze Layout & Components];
     P --> S[⚒️ Setup Project & Environment];
     S --> C[💻 Implement Using HTML/CSS/JS];
     C --> R[🔍 Responsive & Cross-Browser Testing];
     R --> O[🧪 Optimize Performance & Code];
     O --> F[✅ Final Review & Deploy];
+```
 
 ### 📚 Learning Journey
 
@@ -41,7 +43,9 @@ graph TD;
 🚀 2025 – Focused on building a portfolio and contributing to real-world projects  
 📈 Present – Continuously improving and staying up to date with modern front-end development trends  
 
+<h3 align="center">
 💬 “Progress is progress, no matter how small — the key is consistency.”
+</h3>
 
 ---
 
@@ -92,8 +96,8 @@ graph TD;
 
 ---
 
-<p align="center">
-### 💡 *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
-</p>
+<h3 align="center">
+💡 *“Design is not just what it looks like and feels like. Design is how it works.”* – Steve Jobs
+</h3>
 
 ---
