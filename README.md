@@ -4,17 +4,16 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;Passionate+about+UI%2FUX+Design;Always+Learning+and+Building" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer;Transforming+UI%2FUX+Designs+into+Responsive+Websites;Clean+Code+%7C+Modern+Tech+%7C+Consistent+Delivery" alt="Typing SVG" />
 
 ---
 
 ### 🧩 About Me
 
-✨ I specialize in building engaging and responsive web interfaces using modern front-end technologies.  
-🎯 Focused on creating clean, maintainable code and intuitive user experiences.  
-🌱 Currently exploring deeper into **JavaScript frameworks**, **design systems**, and **accessibility best practices**.  
-🚀 Committed to continuous learning and shipping high-quality web products.  
+✨ A passionate Front-End Web Developer dedicated to bringing UI/UX designs to life with precision and performance.  
+🎯 Focused on translating design mockups into clean, responsive, and maintainable code.  
+🛠️ Experienced with modern front-end tools and frameworks to ensure seamless user experiences.  
+🚀 Continuously learning and improving to stay aligned with the latest industry standards and best practices.
 
 ---
 
