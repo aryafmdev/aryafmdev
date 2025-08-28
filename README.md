@@ -109,7 +109,12 @@ graph TD;
 ### 🐍 Play Snake or Pacman
 
 Wanna take a break?  
-▶️ [Play Snake Game](https://yourusername.github.io/snake-game)  
-▶️ [Play Pacman](https://yourusername.github.io/pacman-clone)
+▶️ [Play Snake Game](https://aryafmdev.github.io/snake-game)  
+
+###
+
+<img src="https://raw.githubusercontent.com/aryafmdev/aryafmdev/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
