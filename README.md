@@ -81,8 +81,8 @@ graph TD;
 
 ### 📚 Learning Journey
 
-🗓️ 2024 – Started learning the fundamentals of HTML, CSS, and JavaScript  
-🛠️ 2024 – Built several static projects and learned Git/GitHub basics  
+🗓️ 2025 – Started learning the fundamentals of HTML, CSS, and JavaScript  
+🛠️ 2025 – Built several static projects and learned Git/GitHub basics  
 ⚛️ 2025 – Began exploring React and Tailwind CSS  
 🔁 2025 – Gained experience working with UI designs from Figma  
 🚀 2025 – Focused on building a portfolio and contributing to real-world projects  
