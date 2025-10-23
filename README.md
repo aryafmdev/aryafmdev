@@ -77,17 +77,6 @@ graph TD;
     O --> F[✅ Final Review & Deploy];
 ```
 
----
-
-### 📚 Learning Journey
-
-🗓️ 2025 – Started learning the fundamentals of HTML, CSS, and JavaScript  
-🛠️ 2025 – Built several static projects and learned Git/GitHub basics  
-⚛️ 2025 – Began exploring React and Tailwind CSS  
-🔁 2025 – Gained experience working with UI designs from Figma  
-🚀 2025 – Focused on building a portfolio and contributing to real-world projects  
-📈 Present – Continuously improving and staying up to date with modern front-end development trends  
-
 <h3 align="center">
 💬 “Progress is progress, no matter how small — the key is consistency.”
 </h3>
