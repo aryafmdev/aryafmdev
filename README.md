@@ -65,18 +65,6 @@
 
 ---
 
-### ⚙️ My Workflow
-
-```mermaid
-graph TD;
-    D[📥 Receive UI/UX Design - Figma, etc] --> P[🧠 Analyze Layout & Components];
-    P --> S[⚒️ Setup Project & Environment];
-    S --> C[💻 Implement Using HTML/CSS/JS];
-    C --> R[🔍 Responsive & Cross-Browser Testing];
-    R --> O[🧪 Optimize Performance & Code];
-    O --> F[✅ Final Review & Deploy];
-```
-
 <h3 align="center">
 💬 “Progress is progress, no matter how small — the key is consistency.”
 </h3>
