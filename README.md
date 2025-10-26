@@ -9,11 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer+ / +Front-End;Transforming+UI%2FUX+Designs+into+Responsive+Websites;Clean+Code+%7C+Modern+Tech+%7C+Consistent+Delivery" alt="Typing SVG" />
-
----
-
 ### 🧩 About Me
 
 ✨ A passionate Software Engineer / Front-End dedicated to bringing UI/UX designs to life with precision and performance.  
