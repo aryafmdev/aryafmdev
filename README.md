@@ -16,7 +16,7 @@
 
 ### 🧩 About Me
 
-✨ A passionate Front-End Web Developer dedicated to bringing UI/UX designs to life with precision and performance.  
+✨ A passionate Software Engineer / Front-End dedicated to bringing UI/UX designs to life with precision and performance.  
 🎯 Focused on translating design mockups into clean, responsive, and maintainable code.  
 🛠️ Experienced with modern front-end tools and frameworks to ensure seamless user experiences.  
 🚀 Continuously learning and improving to stay aligned with the latest industry standards and best practices.
