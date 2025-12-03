@@ -51,12 +51,11 @@
 
 ---
 
-### 📈 My GitHub Stats
-
 <p align="center"> 
-  <img src="https://github-readme-stats-lmsx5ivjk-aryafmdevs-projects.vercel.app/api?username=aryafmdev&show_icons=true&rank_icon=github&theme=transparent&cache_seconds=86400" height="150" /> 
-  <img src="https://github-readme-stats-lmsx5ivjk-aryafmdevs-projects.vercel.app/api/top-langs/?username=aryafmdev&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" height="150" /> 
+  <img src="https://github-readme-stats-gold-six-11.vercel.app/api?username=aryafmdev&show_icons=true&rank_icon=github&theme=transparent&cache_seconds=86400" height="150" /> 
+  <img src="https://github-readme-stats-gold-six-11.vercel.app/api/top-langs/?username=aryafmdev&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" height="150" /> 
 </p>
+
 
 
 ---
