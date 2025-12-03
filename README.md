@@ -55,8 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryafmdev&show_icons=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aryafmdev&show_icons=true&theme=transparent&hide_title=true&hide_border=true&hide_rank=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryafmdev&layout=compact&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryafmdev&layout=compact" height="150" />
 </p>
 
 ---
