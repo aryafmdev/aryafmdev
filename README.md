@@ -53,9 +53,9 @@
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryafmdev&show_icons=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryafmdev&layout=compact" height="150" />
+<p align="center"> 
+  <img src="https://github-readme-stats-kdyv7eb5s-aryafmdevs-projects.vercel.app/api?username=aryafmdev&show_icons=true&rank_icon=github&theme=transparent&cache_seconds=86400" height="150" /> 
+  <img src="https://github-readme-stats-kdyv7eb5s-aryafmdevs-projects.vercel.app/api/top-langs/?username=aryafmdev&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" height="150" /> 
 </p>
 
 ---
@@ -63,6 +63,14 @@
 <h3 align="center">
 💬 “Progress is progress, no matter how small — the key is consistency.”
 </h3>
+
+---
+
+### 🚀 Featured Projects
+
+- 📚 [Library Web App](https://github.com/aryafmdev/library-web-app) – Full-stack app with 29 endpoints, audit-ready docs.
+- 🎬 [Cinemapedia](https://github.com/aryafmdev/cinemapedia) – Movie discovery app with clean UI and API integration.
+- 🍴 [Foody Restaurant App](https://github.com/aryafmdev/foody) – Modern restaurant app with responsive design.
 
 ---
 
