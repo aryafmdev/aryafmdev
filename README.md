@@ -68,7 +68,7 @@
 
 ### 🚀 Featured Projects
 
-- 📚 [Library Web App](https://github.com/aryafmdev/library-web-app) – Full-stack app with 29 endpoints, audit-ready docs.
+- 📚 [Library Web App](https://github.com/aryafmdev/library-web-app) – Modern library app with responsive design, audit-ready docs.
 - 🎬 [Cinemapedia](https://github.com/aryafmdev/cinemapedia) – Movie discovery app with clean UI and API integration.
 - 🍴 [Foody Restaurant App](https://github.com/aryafmdev/foody) – Modern restaurant app with responsive design.
 
