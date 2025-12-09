@@ -68,9 +68,10 @@
 
 ### 🚀 Featured Projects
 
-- 📚 [Library Web App](https://github.com/aryafmdev/library-web-app) – Modern library app with responsive design, audit-ready docs.
 - 🎬 [Cinemapedia](https://github.com/aryafmdev/cinemapedia) – Movie discovery app with clean UI and API integration.
+- 📚 [Library Web App](https://github.com/aryafmdev/library-web-app) – Modern library app with responsive design, audit-ready docs.
 - 🍴 [Foody Restaurant App](https://github.com/aryafmdev/foody) – Modern restaurant app with responsive design.
+- 📱 [Sociality](https://socialmediaappnextjstypescripttailw.vercel.app/) – Social media app with posts, comments, likes, follows, and responsive UI.
 
 ---
 
