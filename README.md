@@ -69,8 +69,8 @@
 ### 🚀 Featured Projects
 
 - 🎬 [Cinemapedia](https://github.com/aryafmdev/cinemapedia) – Movie discovery app with clean UI and API integration.
-- 📚 [Library Web App](https://github.com/aryafmdev/library-web-app) – Modern library app with responsive design, audit-ready docs.
 - 🍴 [Foody Restaurant App](https://github.com/aryafmdev/foody) – Modern restaurant app with responsive design.
+- 📚 [Library Web App](https://github.com/aryafmdev/library-web-app) – Modern library app with responsive design, audit-ready docs.
 - 📱 [Sociality](https://socialmediaappnextjstypescripttailw.vercel.app/) – Social media app with posts, comments, likes, follows, and responsive UI.
 
 ---
@@ -79,8 +79,7 @@
 
 <p>
   <a href="mailto:muhammadaryafm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arya-fm-81a91038b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
 
