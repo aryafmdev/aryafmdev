@@ -71,7 +71,6 @@
 - 🎬 [Cinemapedia](https://cinemapedia-olive.vercel.app/) – Movie discovery app with clean UI and API integration.
 - 🍴 [Foody Restaurant App](https://foody-restaurant-app-wine.vercel.app/) – Modern restaurant app with responsive design.
 - 📚 [Library Web App](https://booky-library-web.vercel.app/) – Modern library app with responsive design, audit-ready docs.
-- 📱 [Sociality](https://socialmediaappnextjstypescripttailw.vercel.app/) – Social media app with posts, comments, likes, follows, and responsive UI.
 
 ---
 
